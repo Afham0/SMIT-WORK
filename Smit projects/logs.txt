@@ -1,0 +1,11 @@
+
+2025-08-31 07:30:54.495048,add_product, product Data add successfully 
+2025-08-31 07:31:04.840412,add_item_by_id, Your product is added
+2025-08-31 07:31:08.171024,calculate, Total: 900.0, Discount: 0%, Final: 900.0
+2025-08-31 07:31:13.889278,set_discount, Discount is set 10% 
+2025-08-31 07:31:31.762337,add_item_by_id, Your product is added
+2025-08-31 07:31:38.028406,calculate, Total: 4900.0, Discount: 10%, Final: 4410.0
+2025-08-31 07:35:19.884206,add_product, product Data add successfully 
+2025-08-31 07:35:24.967153,add_item_by_id, Your product is added
+2025-08-31 07:35:31.240620,set_discount, Discount is set 10% 
+2025-08-31 07:35:33.392592,calculate, Total: 2000.0, Discount: 10%, Final: 1800.0
